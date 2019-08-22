@@ -1,0 +1,2 @@
+python3.7 verification_generater/generate_image.py
+python3.7 verification/verification.py
